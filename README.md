@@ -2,7 +2,13 @@
 
 Code, Latex Source and Presentation for seminar project at RWTH Aachen University, summer term 2016.
 
-Based on the paper ["A Deep Learning Approach to Structured Signal Recovery"](https://arxiv.org/abs/1508.04065) by Ali Mousavi, Ankit B. Patel and Richard G. Baraniuk.
+Based on the paper "A Deep Learning Approach to Structured Signal Recovery", evaluated on the Caltech-UCSD Birds 200 Dataset.
+[Theano](https://github.com/Theano/Theano) was used for training the network, with [Lasagne](https://github.com/Lasagne/Lasagne) as high-level library on top.
+
+- Ali Mousavi A., Ankit B. Patel and Richard G. Baraniuk. ["A Deep Learning Approach to Structured Signal Recovery"](https://arxiv.org/abs/1508.04065).
+- P. Welinder, S. Branson, T. Mita, C. Wah, F. Schroff, S. Belongie, P. Perona. ["Caltech-UCSD Birds 200"](http://www.vision.caltech.edu/visipedia/papers/WelinderEtal10_CUB-200.pdf). California Institute of Technology. CNS-TR-2010-001. 2010.
+- Theano Development Team. ["Theano: A Python framework for fast computation of mathematical expressions"](http://arxiv.org/pdf/1605.02688.pdf).
+
 
 Abstract
 ========
